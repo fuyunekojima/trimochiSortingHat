@@ -1,0 +1,32 @@
+{
+  "name": "torimochiSortingHat",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "easy-table": "^1.1.1",
+    "klasa": "dirigeants/klasa",
+    "lodash": "^4.17.11",
+    "nedb-promises": "^3.0.6",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "moduleResolution": "node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuyunekojima/node_typescript_boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuyunekojima/node_typescript_boilerplate/issues"
+  },
+  "homepage": "https://github.com/fuyunekojima/node_typescript_boilerplate#readme"
+}

@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+messageObjectSample/
+.jshintrc
+yarn-error.log
+yarn.lock
+src/config.js
